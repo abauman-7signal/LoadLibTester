@@ -19,7 +19,7 @@ function installLibs() {
 }
 
 function installJar() {
-  cp -v $MOS_BUILD_DIR/java-mac/*jar $BUILD_DIR
+  cp -v $MOS_BUILD_DIR/java-mac/*jar $INSTALL_DIR
 }
 
 function installTester() {
