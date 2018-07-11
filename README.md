@@ -9,4 +9,5 @@ corresponding JNI library on a Mac from a Java application.
 
 ### Running the test
     $ ./build.sh
+    $ ./install.sh
     $ ./run.sh
